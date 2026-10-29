@@ -1,0 +1,23 @@
+{
+  "name": "자동차정비기능사",
+  "subjectNames": [
+    "자동차정비"
+  ],
+  "questionCount": 60,
+  "durationMinutes": 60,
+  "choiceCount": 4,
+  "passScore": 60,
+  "maxScore": 100,
+  "hasSubjectCutoff": false,
+  "rulesVerificationStatus": "pending",
+  "selectionPolicy": "학습용 무작위 60문항, 숫자 변형 family 우선 분산. 공식 단원별 비중 미확인.",
+  "officialSources": [
+    {
+      "url": "https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=6281",
+      "status": "접근 실패: CONNECT tunnel failed, response 403; 종목 코드와 최신 규칙 대조 미완료"
+    }
+  ],
+  "rulesNote": "60문항·60분·4지선다·100점 만점 60점·과락 없음은 현재 학습용 설정. 공식 최신 자료 직접 대조 미완료.",
+  "storageNamespace": "motor-vehicle-maintenance-cbt:v1",
+  "targetReviewedCount": 1000
+}
