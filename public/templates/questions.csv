@@ -1,0 +1,2 @@
+﻿id,subject,topic,question,answer,explanation,difficulty,year,session,type,sourceUrl,verificationStatus,reviewNote,version,rights,choice1,choice2,choice3,choice4
+IMPORT-CAR-001,자동차정비,전기전자,등록 양식 예제: 시동 후 크랭킹 모터의 동력 연결을 해제해야 하는 이유는?,1,엔진이 자체 회전하면 스타터가 과속 구동될 수 있으므로 구동 연결을 해제한다. 실제 사용 전 근거와 권한을 검토한다.,하,,,original,https://github.com/YunSangYeong/Craftsman-Motor-Vehicle-Maintenance-CBT/blob/main/docs/question-review.md,pending,등록 양식 예제 · 사용 전 검수 필요,main,프로젝트 자체 제작 · CC BY 4.0; 제3자 기출을 복제하지 않음,스타터 과회전 방지,연료탱크 용적 증가,냉매 증발 방지,차체 높이 고정
